@@ -76,4 +76,6 @@ Début : 2025-06-12 14:32:10
 Scan terminé ! Ports ouverts trouvés : 4
 Ports ouverts : [22, 80, 443, 8080]
 ```
-   
+# ⚠️ Avertissement légal
+## Ce script est fourni exclusivement à des fins éducatives et de test.
+### Scanner des machines, des serveurs ou des équipements dont vous n'êtes pas propriétaire ou pour lesquels vous n'avez pas reçu une autorisation écrite explicite est illégal dans la très grande majorité des pays. Vous êtes seul et unique responsable de l'utilisation de cet outil. Utilisez le de manière éthique et responsable.
