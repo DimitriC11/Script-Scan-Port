@@ -54,11 +54,11 @@ python3 script.py 192.168.1.1
 ```python
 port_scanner(target, start_port=1, end_port=2000, threads=200)
 ```
-### Paramètre	Description	                       Valeur par défaut
-### start_port	Premier port de la plage à scanner	    1
-### end_port	Dernier port de la plage à scanner	    2000
-### threads	   Nombre de connexions simultanées	       200
-### timeout   	Délai maximum d'attente par port	        0.8s
+#### Paramètre	 |   Description	                     |  Valeur par défaut
+#### start_port | Premier port de la plage à scanner	|    1
+#### end_port	 | Dernier port de la plage à scanner	|    2000
+#### threads	 | Nombre de connexions simultanées	   |    200
+#### timeout    | Délai maximum d'attente par port	   |    0.8s
 
 # 📄 Exemple de sortie
 
