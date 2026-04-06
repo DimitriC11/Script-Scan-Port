@@ -30,3 +30,9 @@ Un script Python léger, rapide et sans dépendances externes pour scanner les p
 1. Clone le dépôt :
    ```bash
    git clone https://github.com/<TON_PSEUDO>/<TON_REPO>.git
+
+## 2. Rend toi dans le dossier : 
+```bash
+ cd port scanner
+
+   
